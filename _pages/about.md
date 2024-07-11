@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Political Science at the University of California, Davis. I am also a 2024-2025 Bilinski Fellow. 
+I am a Ph.D. Candidate in Political Science at the UC Davis and am currently a 2024-2025 Bilinski Fellow. 
 
