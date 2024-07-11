@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of my website!
+I am a PhD Candidate in Political Science at the University of California, Davis. I am also a 2024-2025 Bilinski Fellow. 
 
